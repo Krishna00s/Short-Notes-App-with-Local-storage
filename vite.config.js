@@ -7,3 +7,4 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: '/Short-Notes-App-with-Local-storage/',
 })
+
